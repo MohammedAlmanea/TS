@@ -1,4 +1,4 @@
 "use strict";
-const myName = "your name";
+const myName = "Mohammed";
 const hello = (userName) => `hello, ${userName}`;
 console.log(hello);
